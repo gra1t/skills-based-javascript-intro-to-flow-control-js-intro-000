@@ -14,7 +14,8 @@ function teenager(age) {
    return
   }
   else {
-  return  console.log("You\'re not a teenager!")
+ console.log("You\'re not a teenager!")
+ return
   }
 
 }
